@@ -11,3 +11,8 @@ $ git init
 #git status 4/9:
 [In terminal]
 $ git status
+
+#git add 5/9:
+[In terminal]
+$ git add scene-1.txt
+$ git status
