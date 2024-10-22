@@ -9,3 +9,5 @@ $ git init
 #Git Workflow 3/9:
 
 #git status 4/9:
+[In terminal]
+$ git status
