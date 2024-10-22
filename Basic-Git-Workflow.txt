@@ -5,3 +5,7 @@ Harry Programmer and the Sorcerer's Code: Scene 1
 #git init 2/9:
 [In terminal]
 $ git init
+
+#Git Workflow 3/9:
+
+#git status 4/9:
