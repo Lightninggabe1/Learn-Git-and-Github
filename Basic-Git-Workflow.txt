@@ -24,4 +24,9 @@ Dumblediff: I should've known you would be here, Professor McGonagit.
 $ git add scene-1.txt
 
 #git commit 7/9:
+[In terminal]
 $ git commit -m "Completefirst line of scene 1"
+
+#git log 8/9:
+[In terminal]
+$ git log
