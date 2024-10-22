@@ -30,3 +30,5 @@ $ git commit -m "Completefirst line of scene 1"
 #git log 8/9:
 [In terminal]
 $ git log
+
+#Generalizations 9/9:
