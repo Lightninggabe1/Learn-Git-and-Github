@@ -22,3 +22,6 @@ Harry Programmer and the Sorcerer's Code: Scene 1
 Dumblediff: I should've known you would be here, Professor McGonagit.
 [In terminal]
 $ git add scene-1.txt
+
+#git commit 7/9:
+$ git commit -m "Completefirst line of scene 1"
