@@ -1,0 +1,7 @@
+#Hello Git 1/9:
+Harry Programmer and the Sorcerer's Code: Scene 1
+
+
+#git init 2/9:
+[In terminal]
+$ git init
